@@ -1,10 +1,4 @@
-/*
- * Ian Kaufman
- * 115639955
- * ian.kaufman@stonybrook.edu
- * Homework 5
- * CSE214.R30
- */
+
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Collections;
